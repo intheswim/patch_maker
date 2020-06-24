@@ -1,4 +1,4 @@
-#### Patch : patch making and applying utility.
+#### Patch : patch making and applying utility
 
 <pre>
 Originally developed as MS-DOS command line utility back in 1997, when computer 
@@ -79,7 +79,7 @@ long sequences of identical bytes and compresses them as well.
 The patch file structure/schema is described in detail inside `main.cpp`.
 </pre>
 
-#### Performance on Windows 10.
+#### Performance on Windows 10
 
 <pre>
 A quick test of the patch-making part compiled with Visual Studio on Windows 10
