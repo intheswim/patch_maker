@@ -82,7 +82,7 @@ The patch file structure/schema is described in detail inside `main.cpp`.
 #### Performance on Windows 10.
 
 <pre>
-A quick test of the  patch-making prt compiled with Visual Studio on Windows 10
+A quick test of the patch-making part compiled with Visual Studio on Windows 10
 shows that it runs substantially slower compared to Linux version, on a similar 
 hardware - release and all optimization flags being set. Visual Studio profiler
 shows the bottleneck is I/O functions such as `fread()`.
