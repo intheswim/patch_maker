@@ -22,7 +22,7 @@ Windows - because of the slower disk I/O, see note on performance below).
 
 #### Usage
 
-</pre>
+<pre>
 type `./patch` to see all options.
 
 `Syntax: ./patch [flags] oldfile.ext newfile.ext [file.pat]`
